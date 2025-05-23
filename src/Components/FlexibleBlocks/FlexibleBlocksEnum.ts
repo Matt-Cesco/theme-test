@@ -1,0 +1,32 @@
+export enum FlexibleBlocksEnum {
+    CALLTOACTIONBLOCK = 'FlexibleContentFlexibleContentBlockCallToActionLayout',
+    CENTEREDIMAGEBLOCK = 'FlexibleContentFlexibleContentBlockCenteredImageLayout',
+    CENTEREDTEXTBLOCK = 'FlexibleContentFlexibleContentBlockCenteredTextLayout',
+    CONTACTBLOCK = 'FlexibleContentFlexibleContentBlockContactLayout',
+    FOURASYMETRICPROJECTCARDSBLOCK = 'FlexibleContentFlexibleContentBlockFourAsymetricProjectCardsLayout',
+    FOURCARDSHEADINGTEXTBLOCK = 'FlexibleContentFlexibleContentBlockFourCardsHeadingTextLayout',
+    HEADINGINDENT2COLTEXTBLOCK = 'FlexibleContentFlexibleContentBlockHeadingIndent2ColTextLayout',
+    HEADINGINDENTBLOCK = 'FlexibleContentFlexibleContentBlockHeadingIndentLayout',
+    HEADINGSUBHEADINGIMAGETEXTBLOCK = 'FlexibleContentFlexibleContentBlockHeadingSubheadingImageTextLayout',
+    HEADINGSUBHEADINGTWOCOLTEXTBLOCK = 'FlexibleContentFlexibleContentBlockHeadingSubheadingTwoColTextLayout',
+    IMAGEONHORIZONTALBUTTONHOVERBLOCK = 'FlexibleContentFlexibleContentBlockImageOnHorizontalButtonHoverLayout',
+    IMAGEONTEXTHOVERBLOCK = 'FlexibleContentFlexibleContentBlockImageOnTextHoverLayout',
+    IMAGEONVERTICALBUTTONHOVERBLOCK = 'FlexibleContentFlexibleContentBlockImageOnVerticalButtonHoverLayout',
+    IMAGEORVIDEOBLOCK = 'FlexibleContentFlexibleContentBlockImageOrVideoLayout',
+    IMAGERGBAHEADINGBUTTONBLOCK = 'FlexibleContentFlexibleContentBlockImageRgbaHeadingButtonLayout',
+    IMAGETEXTBUTTONBLOCK = 'FlexibleContentFlexibleContentBlockImageTextButtonLayout',
+    INFINITELOGOSBLOCK = 'FlexibleContentFlexibleContentBlockInfiniteLogosLayout',
+    LATESTNEWSBLOCK = 'FlexibleContentFlexibleContentBlockLatestNewsLayout',
+    NEXTPAGEBLOCK = 'FlexibleContentFlexibleContentBlockNextPageLayout',
+    RGBABGTEXTOVERIMAGEBLOCK = 'FlexibleContentFlexibleContentBlockRgbaBgTextOverImageLayout',
+    RIGHTSUBHEADINGTWOCOLTEXTBLOCK = 'FlexibleContentFlexibleContentBlockRightSubheadingTwoColTextLayout',
+    STASTSRGBABLOCK = 'FlexibleContentFlexibleContentBlockStastsRgbaLayout',
+    SUBHEADINGINDENT1COLSBLOCK = 'FlexibleContentFlexibleContentBlockSubheadingIndent1ColsLayout',
+    SUBHEADINGINDENT2COLSBLOCK = 'FlexibleContentFlexibleContentBlockSubheadingIndent2ColsLayout',
+    SUBHEADINGONECOLTEXTBLOCK = 'FlexibleContentFlexibleContentBlockSubheadingOneColTextLayout',
+    SUBHEADINGROWSBLOCK = 'FlexibleContentFlexibleContentBlockSubheadingRowsLayout',
+    SUBHEADINGTWOCOLTEXTBLOCK = 'FlexibleContentFlexibleContentBlockSubheadingTwoColTextLayout',
+    TESTIMONIALHEADINGINDENTBLOCK = 'FlexibleContentFlexibleContentBlockTestimonialHeadingIndentLayout'
+}
+
+export default FlexibleBlocksEnum;
